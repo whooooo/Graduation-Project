@@ -1,7 +1,7 @@
 # my-new-project
 サービス名：ReciScan AI (レシスキャン AI)
 
-〜スマホひとつで、レシートを即座に資産データへ〜
+[画面遷移図](https://www.figma.com/board/kq3wgFnzNpfiAeb9X8Elu6/%E7%84%A1%E9%A1%8C?node-id=1-145&t=KTG0VRN2QJkxSPiy-1)
 
 1. サービス概要
 
