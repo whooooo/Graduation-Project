@@ -3,6 +3,9 @@
 
 Figmaの画面遷移図URL:https://www.figma.com/board/kq3wgFnzNpfiAeb9X8Elu6/%E7%84%A1%E9%A1%8C?node-id=0-1&t=KTG0VRN2QJkxSPiy-1
 
+ER図作成URL:https://gyazo.com/b9f420f67c0efe308059fabff52c9cf7
+
+
 1. サービス概要
 
   - どんなサービスか：カメラ撮影からAI解析、データ保存、CSV出力までをシームレスに行う、超軽量なレシート解析特化型Webアプリケーションです。
